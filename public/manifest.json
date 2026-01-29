@@ -1,0 +1,17 @@
+{
+  "name": "KetoVoor App",
+  "short_name": "KetoVoor",
+  "description": "Persoonlijke Keto-Carnivoor Planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#23a9e4",
+  "theme_color": "#23a9e4",
+  "icons": [
+    {
+      "src": "/logo-app.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
