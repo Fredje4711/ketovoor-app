@@ -1,0 +1,336 @@
+[
+  {
+    "id": "gen-001",
+    "titel": "Omelet met spek en avocado",
+    "maaltijd_type": "ontbijt",
+    "prep_tijd": 15,
+    "macros": {"kcal": 550, "eiwit": 32},
+    "kenmerken": {"zuivelvrij": true, "eivrij": false, "strikt": false},
+    "ingredienten": [
+      {"item": "eieren", "hoeveelheid": 3, "eenheid": "st"},
+      {"item": "gerookt spek", "hoeveelheid": 80, "eenheid": "g"},
+      {"item": "avocado", "hoeveelheid": 0.5, "eenheid": "st"}
+    ],
+    "instructies": [
+      "Bak het spek krokant.",
+      "Klop de eieren los en bak tot omelet.",
+      "Serveer met plakjes avocado."
+    ],
+    "tips": ["Gebruik spekvet om extra smaak toe te voegen."]
+  },
+  {
+    "id": "gen-002",
+    "titel": "Roerei met rundergehakt",
+    "maaltijd_type": "ontbijt",
+    "prep_tijd": 15,
+    "macros": {"kcal": 600, "eiwit": 40},
+    "kenmerken": {"zuivelvrij": true, "eivrij": false, "strikt": true},
+    "ingredienten": [
+      {"item": "eieren", "hoeveelheid": 3, "eenheid": "st"},
+      {"item": "rundergehakt", "hoeveelheid": 150, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak het gehakt rul.",
+      "Voeg de eieren toe en roer tot gestold."
+    ],
+    "tips": ["Kruid enkel met zout voor strikt ketovore."]
+  },
+  {
+    "id": "gen-003",
+    "titel": "Ontbijtburger met spiegelei",
+    "maaltijd_type": "ontbijt",
+    "prep_tijd": 20,
+    "macros": {"kcal": 650, "eiwit": 45},
+    "kenmerken": {"zuivelvrij": true, "eivrij": false, "strikt": true},
+    "ingredienten": [
+      {"item": "runderburger", "hoeveelheid": 200, "eenheid": "g"},
+      {"item": "ei", "hoeveelheid": 1, "eenheid": "st"}
+    ],
+    "instructies": [
+      "Bak de burger naar wens.",
+      "Bak een spiegelei.",
+      "Leg het ei bovenop de burger."
+    ],
+    "tips": ["Gebruik vet rundergehakt (min. 20%)."]
+  },
+  {
+    "id": "gen-004",
+    "titel": "Zalm met roerei",
+    "maaltijd_type": "ontbijt",
+    "prep_tijd": 15,
+    "macros": {"kcal": 500, "eiwit": 38},
+    "kenmerken": {"zuivelvrij": true, "eivrij": false, "strikt": false},
+    "ingredienten": [
+      {"item": "zalmfilet", "hoeveelheid": 120, "eenheid": "g"},
+      {"item": "eieren", "hoeveelheid": 2, "eenheid": "st"}
+    ],
+    "instructies": [
+      "Bak de zalm kort aan.",
+      "Maak zacht roerei en serveer samen."
+    ],
+    "tips": ["Ook lekker met een beetje citroenrasp."]
+  },
+  {
+    "id": "gen-005",
+    "titel": "Kippenlever met ei",
+    "maaltijd_type": "ontbijt",
+    "prep_tijd": 20,
+    "macros": {"kcal": 480, "eiwit": 35},
+    "kenmerken": {"zuivelvrij": true, "eivrij": false, "strikt": true},
+    "ingredienten": [
+      {"item": "kippenlever", "hoeveelheid": 200, "eenheid": "g"},
+      {"item": "ei", "hoeveelheid": 1, "eenheid": "st"}
+    ],
+    "instructies": [
+      "Bak de kippenlever gaar.",
+      "Serveer met een gebakken ei."
+    ],
+    "tips": ["Niet te lang bakken om bitterheid te vermijden."]
+  },
+  {
+    "id": "gen-006",
+    "titel": "Steak met spinazie",
+    "maaltijd_type": "middagmaal",
+    "prep_tijd": 25,
+    "macros": {"kcal": 700, "eiwit": 50},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "entrecote", "hoeveelheid": 250, "eenheid": "g"},
+      {"item": "spinazie", "hoeveelheid": 50, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de steak naar wens.",
+      "Laat de spinazie slinken in het bakvet."
+    ],
+    "tips": ["Laat het vlees rusten voor het snijden."]
+  },
+  {
+    "id": "gen-007",
+    "titel": "Kipfilet met avocado",
+    "maaltijd_type": "middagmaal",
+    "prep_tijd": 20,
+    "macros": {"kcal": 600, "eiwit": 45},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "kipfilet", "hoeveelheid": 200, "eenheid": "g"},
+      {"item": "avocado", "hoeveelheid": 1, "eenheid": "st"}
+    ],
+    "instructies": [
+      "Bak de kipfilet goudbruin.",
+      "Serveer met plakjes avocado."
+    ],
+    "tips": ["Kruid enkel met zout en peper."]
+  },
+  {
+    "id": "gen-008",
+    "titel": "Hamburger zonder brood",
+    "maaltijd_type": "middagmaal",
+    "prep_tijd": 15,
+    "macros": {"kcal": 650, "eiwit": 40},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": true},
+    "ingredienten": [
+      {"item": "runderburger", "hoeveelheid": 250, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de burger tot gewenste gaarheid."
+    ],
+    "tips": ["Gebruik grof zeezout vlak voor het bakken."]
+  },
+  {
+    "id": "gen-009",
+    "titel": "Tonijnsteak met courgette",
+    "maaltijd_type": "middagmaal",
+    "prep_tijd": 20,
+    "macros": {"kcal": 550, "eiwit": 45},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "tonijnsteak", "hoeveelheid": 200, "eenheid": "g"},
+      {"item": "courgette", "hoeveelheid": 100, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Gril de tonijn kort.",
+      "Bak de courgette schijfjes."
+    ],
+    "tips": ["Tonijn liefst rosé laten."]
+  },
+  {
+    "id": "gen-010",
+    "titel": "Kalkoenreepjes met champignons",
+    "maaltijd_type": "middagmaal",
+    "prep_tijd": 25,
+    "macros": {"kcal": 580, "eiwit": 48},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "kalkoenfilet", "hoeveelheid": 200, "eenheid": "g"},
+      {"item": "champignons", "hoeveelheid": 100, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de kalkoenreepjes.",
+      "Voeg champignons toe en bak verder."
+    ],
+    "tips": ["Bak op hoog vuur voor meer smaak."]
+  },
+  {
+    "id": "gen-011",
+    "titel": "Ribeye met kruidenboter",
+    "maaltijd_type": "diner",
+    "prep_tijd": 30,
+    "macros": {"kcal": 800, "eiwit": 55},
+    "kenmerken": {"zuivelvrij": false, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "ribeye steak", "hoeveelheid": 300, "eenheid": "g"},
+      {"item": "boter", "hoeveelheid": 20, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de ribeye heet aan.",
+      "Werk af met kruidenboter."
+    ],
+    "tips": ["Laat het vlees op kamertemperatuur komen."]
+  },
+  {
+    "id": "gen-012",
+    "titel": "Lamskotelet met spinazie",
+    "maaltijd_type": "diner",
+    "prep_tijd": 30,
+    "macros": {"kcal": 750, "eiwit": 50},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "lamskotelet", "hoeveelheid": 280, "eenheid": "g"},
+      {"item": "spinazie", "hoeveelheid": 60, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de lamskotelet.",
+      "Serveer met geslonken spinazie."
+    ],
+    "tips": ["Lamsvlees niet te ver garen."]
+  },
+  {
+    "id": "gen-013",
+    "titel": "Gehaktballen in eigen vet",
+    "maaltijd_type": "diner",
+    "prep_tijd": 35,
+    "macros": {"kcal": 700, "eiwit": 45},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": true},
+    "ingredienten": [
+      {"item": "rundergehakt", "hoeveelheid": 300, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Rol gehaktballen.",
+      "Bak langzaam in eigen vet."
+    ],
+    "tips": ["Deksel op de pan voor sappigheid."]
+  },
+  {
+    "id": "gen-014",
+    "titel": "Kip met bloemkoolpuree",
+    "maaltijd_type": "diner",
+    "prep_tijd": 40,
+    "macros": {"kcal": 650, "eiwit": 45},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "kippenbout", "hoeveelheid": 300, "eenheid": "g"},
+      {"item": "bloemkool", "hoeveelheid": 150, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Gaar de kip in de oven.",
+      "Kook bloemkool en pureer."
+    ],
+    "tips": ["Voeg wat kippenvet toe aan de puree."]
+  },
+  {
+    "id": "gen-015",
+    "titel": "Zalm uit de oven",
+    "maaltijd_type": "diner",
+    "prep_tijd": 25,
+    "macros": {"kcal": 600, "eiwit": 42},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "zalmfilet", "hoeveelheid": 250, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de zalm in de oven op 180°C."
+    ],
+    "tips": ["Niet te lang garen voor sappige zalm."]
+  },
+  {
+    "id": "gen-016",
+    "titel": "Varkenskotelet met spek",
+    "maaltijd_type": "diner",
+    "prep_tijd": 30,
+    "macros": {"kcal": 780, "eiwit": 50},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": true},
+    "ingredienten": [
+      {"item": "varkenskotelet", "hoeveelheid": 300, "eenheid": "g"},
+      {"item": "spek", "hoeveelheid": 50, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak spek krokant.",
+      "Bak de kotelet in het spekvet."
+    ],
+    "tips": ["Laat even rusten voor serveren."]
+  },
+  {
+    "id": "gen-017",
+    "titel": "Eendeborst met paksoi",
+    "maaltijd_type": "diner",
+    "prep_tijd": 35,
+    "macros": {"kcal": 800, "eiwit": 48},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "eendeborst", "hoeveelheid": 300, "eenheid": "g"},
+      {"item": "paksoi", "hoeveelheid": 100, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak eendeborst op de velkant.",
+      "Roerbak paksoi kort."
+    ],
+    "tips": ["Snijd het vet kruiselings in."]
+  },
+  {
+    "id": "gen-018",
+    "titel": "Stoofpot van rund",
+    "maaltijd_type": "diner",
+    "prep_tijd": 120,
+    "macros": {"kcal": 700, "eiwit": 55},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": true},
+    "ingredienten": [
+      {"item": "runderschouder", "hoeveelheid": 400, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Laat het rundvlees langzaam stoven."
+    ],
+    "tips": ["Hoe langer, hoe zachter."]
+  },
+  {
+    "id": "gen-019",
+    "titel": "Kippenvleugels uit de oven",
+    "maaltijd_type": "diner",
+    "prep_tijd": 45,
+    "macros": {"kcal": 650, "eiwit": 40},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": true},
+    "ingredienten": [
+      {"item": "kippenvleugels", "hoeveelheid": 400, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de vleugels krokant in de oven."
+    ],
+    "tips": ["Halverwege omdraaien."]
+  },
+  {
+    "id": "gen-020",
+    "titel": "Biefstuk met champignons",
+    "maaltijd_type": "diner",
+    "prep_tijd": 30,
+    "macros": {"kcal": 720, "eiwit": 50},
+    "kenmerken": {"zuivelvrij": true, "eivrij": true, "strikt": false},
+    "ingredienten": [
+      {"item": "biefstuk", "hoeveelheid": 250, "eenheid": "g"},
+      {"item": "champignons", "hoeveelheid": 120, "eenheid": "g"}
+    ],
+    "instructies": [
+      "Bak de biefstuk.",
+      "Bak champignons in hetzelfde vet."
+    ],
+    "tips": ["Gebruik het bakvet voor extra smaak."]
+  }
+]
