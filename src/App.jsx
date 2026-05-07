@@ -193,7 +193,7 @@ function App() {
               <div className="flex justify-between items-center mb-10 italic">
                 <div><p className="text-xs uppercase text-blue-600 font-black italic tracking-widest italic">VANDAAG</p><h2 className="text-6xl font-black uppercase italic tracking-tighter italic">MENU</h2></div>
                 <div className="flex flex-col gap-2">
-                   <button onClick={() => setPagina('hulp')} className="bg-white text-blue-600 px-3 py-1 rounded-xl text-[10px] font-black border-2 border-blue-600 flex items-center justify-center gap-1 shadow-sm italic uppercase">Hulp <HelpCircle size={14}/></button>
+                   <button onClick={() => setPagina('hulp')} className="bg-white text-blue-600 px-6 py-3 rounded-xl text-xl font-black border-2 border-blue-600 flex items-center justify-center gap-1 shadow-sm italic uppercase">Hulp <HelpCircle size={24}/></button>
                    <button onClick={() => genereerPlan(profiel)} className="bg-blue-600 text-white px-4 py-2 rounded-2xl shadow-xl flex items-center gap-2 font-black italic uppercase">
                       <RefreshCw size={18} className={isUpdating ? 'animate-spin' : ''}/>
                       <span className="text-[10px] font-black uppercase italic">WISSEL</span>
