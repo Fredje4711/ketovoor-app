@@ -130,7 +130,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 font-sans flex justify-center text-gray-900 select-none">
-      <div className="w-full max-w-md bg-white min-h-screen shadow-2xl flex flex-col relative overflow-hidden italic font-black">
+      <div className="w-full max-w-md bg-white min-h-screen shadow-2xl flex flex-col relative overflow-hidden italic font-black">F
         
         <div ref={scrollRef} onScroll={handleScroll} className="flex-grow overflow-y-auto pb-48 px-4 italic font-black font-black italic">
           
@@ -145,11 +145,11 @@ function App() {
 
           {pagina === 'onboarding' && (
             <div className="pt-10 flex flex-col h-full italic">
-              <h2 className="text-4xl uppercase border-b-4 border-blue-600 inline-block self-start mb-10 italic">DE QUIZ</h2>
+              <h2 className="text-4xl uppercase border-b-4 border-blue-600 inline-block self-start mb-10 italic">UW PROFIEL</h2>
               <div className="space-y-10 font-black italic">
                 <div className="bg-gray-50 p-6 rounded-3xl border border-gray-100 text-center italic">
                   <label className="text-xs uppercase text-blue-800 mb-3 block tracking-widest font-black italic">GEWICHT IN KG</label>
-                  <input type="number" value={profiel.gewicht} placeholder="95" onChange={(e) => setProfiel({...profiel, gewicht: e.target.value})} className="w-full bg-white border-2 border-blue-100 p-4 rounded-2xl text-center font-black text-6xl text-blue-600 outline-none" />
+                  <input type="number" value={profiel.gewicht} placeholder="Type uw gewicht" onChange={(e) => setProfiel({...profiel, gewicht: e.target.value})} className="w-full bg-white border-2 border-blue-100 p-4 rounded-2xl text-center font-black text-6xl text-blue-600 outline-none" />
                 </div>
                 <div>
                   <label className="text-sm uppercase text-gray-400 mb-4 block italic font-black font-black italic">UW DOELSTELLING</label>
@@ -267,7 +267,7 @@ function App() {
                   <div className="flex justify-between items-center text-2xl italic font-black"><span>GEWICHT:</span> <span className="text-blue-700 font-black italic">{profiel.gewicht} KG</span></div>
                   <div className="flex justify-between items-center text-lg italic uppercase text-gray-500 font-black"><span>DOEL:</span> <span className="text-blue-700 font-black italic">{profiel.doel}</span></div>
                   <div className="flex justify-between items-center text-xl italic font-black"><span>RITME:</span> <span className="text-blue-700 font-black italic">{profiel.aantalMaaltijden} P/D</span></div>
-                </div>
+                </div>F
               </div>
 
               <div className="space-y-6 italic font-black italic">
